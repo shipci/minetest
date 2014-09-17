@@ -4,6 +4,8 @@ An InfiniMiner/Minecraft inspired game.
 Copyright (c) 2010-2011 Perttu Ahola <celeron55@gmail.com>
 (see source files for other contributors)
 
+
+
 Further documentation:
 ----------------------
 - Website: http://celeron.55.lt/~celeron55/minetest/
